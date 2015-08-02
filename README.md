@@ -1,5 +1,7 @@
 # Character Generator
 
+### Groups
+
 Person | Person | Person
 :------|:-------|:-------
 Ayuna Vogel | Jamaal Sedayao | Umar Mahmud 
@@ -13,3 +15,16 @@ Diana Elezaj | Elber Carneiro | Chris David
 Christian Maldonado | Natalia Estrella | Mesfin Bekele Mekonnen  
 Henna Ahmed | Artur Lan | Brian Blanco  
 Derek Netto | Xiulan Shi 
+
+### Requirements
+* View all characters, view character details, create new character  
+* Character must have a minimum of 4 traits  
+* Character must have at least 1 trait that it generated automatically, dependent on another trait  
+  * For instance, the type of shoes determines where the character is from  
+
+### Discussion 
+* What does the model look like?  
+* How many screens need to exist?  
+* What information is necessary to make each screen work  
+* What is the flow of data? (communication between view controllers / model)  
+
